@@ -14,6 +14,7 @@ percebi que momentos de alegria eram proporcionados com a utilização de fotogr
 Tive a impressão que esses atividades geravam estímulos à sua memória, e de alguma forma contríbuíram para o controle da doença.
 
 Metodologia:
+Python será usado para visualizar o MVP final que será feito em React.
 
 Etapas:
 - definição dos requisitos;
