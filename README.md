@@ -50,6 +50,9 @@ Entendendo o Problema:
 
 Pensando em Soluções:
 
+Fundamentação Científica :
+
+
 
 
 
