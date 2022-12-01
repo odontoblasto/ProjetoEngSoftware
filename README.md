@@ -24,7 +24,7 @@ Tive a impressão que esses atividades geravam estímulos à sua memória, e de 
 
 Hipótese : 
 
-verificar se a estimulação cognitiva digital concorre para a melhoria do quadro clínico apresentado pelo usuário.
+Verificar se a estimulação cognitiva digital concorre para a melhoria do quadro clínico apresentado pelo usuário.
 
 Metodologia:
 
@@ -41,14 +41,14 @@ Etapas:
 
 Definição de Requisitos - entendendo o Problema , pensando em Soluções ...
 
-requisitos do cliente :
+Requisitos do cliente :
 
-criar uma ferramenta tecnológica que, por meio da simulação das memórias do usuário digitalmente, promova a estimulação cognitiva pela associaação da imagem, escolhida pelo usuário, com a descrição carregada pelo usuário no SI.
+Criar uma ferramenta tecnológica que, por meio da simulação das memórias do usuário digitalmente, promova a estimulação cognitiva pela associaação da imagem, escolhida pelo usuário, com a descrição carregada pelo usuário no SI.
 criar módulo com métricas definidas para acompanhar a evolução e validar a Hipótese que verifica se a estimulação cognitiva digital concorre para a melhoria do quadro clínico apresentado pelo usuário.
 
-entendendo o Problema:
+Entendendo o Problema:
 
-pensando em Soluções:
+Pensando em Soluções:
 
 
 
