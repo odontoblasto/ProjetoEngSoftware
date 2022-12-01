@@ -53,7 +53,7 @@ Pensando em Soluções:
 Fundamentação Científica :
 
 
-
+https://telemedicina.unifesp.br/pub/SBIS/CBIS2004/trabalhos/arquivos/782.pdf
 
 
 
