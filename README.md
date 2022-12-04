@@ -7,6 +7,8 @@ The MH Team
 alunos: 
 Carlos Eduardo Dias Ferreira de Vasconcellos - SI 4 Cin/UFPE - cedfv@cin.ufpe.br.
 Pedro Henrique Medeiros  - SI 4 Cin/UFPE - *
+Leonardo Bezerra de Oliveira -SI 4 Cin/UFPE - *
+
 
 Definição:
 
