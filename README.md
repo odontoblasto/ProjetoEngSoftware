@@ -23,7 +23,7 @@ Motivação:
  <h3> - em Homenagem à Sra. Rosa Maria Dias Ferreira de Vasconcellos, super Mãe e guerreira-</h3>
  <h4> vítima de Alzheimer em 01 de Junho de 2022</h4>
  
- <img src='./RosaMaria.jpg'alt='Rosa Maria'>
+ <img src='./rosamaria.jpg'alt='Rosa Maria'>
  "Se me obrigassem a dizer por que a amava, sinto que a minha única resposta seria: Porque era ela, Porque era eu."
  adaptado de Michel de Montaigne
 
