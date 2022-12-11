@@ -19,6 +19,13 @@ Objetivos:
 Construção de SI que promova a Estimulação Digital Cognitiva em pessoas acometidas com a Doença de Alzheimer.
 
 Motivação:
+ Homenagem:
+ <h3> - em Homenagem à Sra. Rosa Maria Dias Ferreira de Vasconcellos, super Mãe e guerreira-</h3>
+ <h4> vítima de Alzheimer em 01 de Junho de 2022</h4>
+ 
+ <img src=''alt='Rosa Maria'>
+ "Se me obrigassem a dizer por que a amava, sinto que a minha única resposta seria: Porque era ela, Porque era eu."
+ adaptado de Michel de Montaigne
 
 Partindo de uma experiência pessoal, eu, Carlos Eduardo ao acompanhar a evolução da Doença de Alzheimer, que acometemeu minha Mãe por 7 anos;
 percebi que momentos de alegria eram proporcionados com a utilização de fotografias e musicas antigas.
